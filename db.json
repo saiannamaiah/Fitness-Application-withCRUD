@@ -1,0 +1,65 @@
+{
+  "enquiry": [
+    {
+      "firstname": "yash",
+      "lastname": "yadav",
+      "email": "yashb@gmail.com",
+      "mobile": "5555555",
+      "weight": 57,
+      "height": 1.5,
+      "bmi": 0.4444444444444444,
+      "bmiresult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Obese",
+        "Feel Good",
+        "Look Good",
+        "Fat Burn",
+        "Running"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-07-30T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstname": "yonda",
+      "lastname": "b",
+      "email": "yondab@gmail.com",
+      "mobile": "676767676",
+      "weight": 676,
+      "height": 1.8,
+      "bmi": 0.30864197530864196,
+      "bmiresult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Quaterly",
+      "important": [
+        "Look Good",
+        "Fat Burn",
+        "Running"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-07-30T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstname": "sai",
+      "lastname": "b",
+      "email": "sai@mivt.com",
+      "mobile": "8095538043",
+      "weight": 67,
+      "height": 1.1,
+      "bmi": 0.8264462809917354,
+      "bmiresult": "Underweight",
+      "gender": "",
+      "requireTrainer": "",
+      "package": "",
+      "important": "",
+      "haveGymBefore": "",
+      "enquiryDate": "",
+      "id": 3
+    }
+  ]
+}
